@@ -1,0 +1,1 @@
+Supplementary code package for the paper 'Tracing Semantic Variation in Slang'. See the attached IPython notebook Trace.ipynb for code used to perform the main experiments in the paper. The notebook also contains an illustration of the code using sample data from the accompanied data package. Data pre-processing code is provided as part of the accompanied data package.
